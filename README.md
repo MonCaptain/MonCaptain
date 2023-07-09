@@ -7,7 +7,7 @@
 - 📚 Computer Science Student
 - 🌱 Currently learning NextJs, Docker, DiscordJs, and MongoDB
 
-# 📈 Some Cool Stats
+# 📈 Every day languages and Stats
 
 <div>
 <a href="https://github.com/moncaptain">
