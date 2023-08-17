@@ -6,6 +6,7 @@
 
 - 📚 Computer Science Student
 - 🌱 Currently learning NextJs, Docker, DiscordJs, and MongoDB
+- ⭐ Favorite text editor theme is Dracula
 
 # 📈 Languages and Stats
 
