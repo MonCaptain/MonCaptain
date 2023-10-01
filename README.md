@@ -4,11 +4,9 @@
 --->
 # ♦ MonCaptain
 
-- 📚 Computer Science Student
-- 🌱 Currently learning NextJs, Docker, DiscordJs, and MongoDB
-- ⭐ Favorite text editor theme is Dracula
-
-# 📈 Languages and Stats
+📚 CS Student
+<br/>
+⭐ Favorite text editor theme is Dracula
 
 <div>
 <a href="https://github.com/moncaptain">
